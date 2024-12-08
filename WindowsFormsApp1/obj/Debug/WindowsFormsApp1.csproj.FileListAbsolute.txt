@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employee.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Menu.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterEmployee.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeDeatails.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Defineroaster.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employeemenu.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Leavedetails.resources
+C:\Users\Admin\Desktop\Grifindo Toys\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Applyforleave.resources
